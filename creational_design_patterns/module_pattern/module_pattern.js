@@ -12,20 +12,16 @@ var Robot = (function () {
   function incrrementCounter() {
     robotsCounter++;
   }
-
   // functions.
   var createNewRobot = function (name) {
     // do some stuffs.
-
     incrrementCounter();
   }
-
   var changeLanguage = function (value) {
     // do the needed validations first.
     // update the language
     configs.language = value;
   }
-
   // here expose what needed to be public.
   return {
     createNewRobot,
