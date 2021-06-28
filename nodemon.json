@@ -3,5 +3,5 @@
     "src"
   ],
   "ext": "js,ts,json",
-  "exec": "ts-node  --transpile-only src/creational_design_patterns/test.ts"
+  "exec": "ts-node  --transpile-only main.ts"
 }
