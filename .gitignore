@@ -1,0 +1,14 @@
+# Dependency directory.
+node_modules
+
+#Ignore any text files.
+*.txt
+
+# Coverage reports
+coverage
+
+#editor
+.vscode
+
+#logs
+*.log

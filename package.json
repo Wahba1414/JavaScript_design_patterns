@@ -1,0 +1,32 @@
+{
+  "name": "javascript_design_patterns",
+  "version": "1.0.0",
+  "description": "Design patterns in JS & TS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wahba1414/JavaScript_design_patterns.git"
+  },
+  "keywords": [
+    "JS",
+    "TS",
+    "Design_Patterns"
+  ],
+  "author": "Mohammed Wahba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wahba1414/JavaScript_design_patterns/issues"
+  },
+  "homepage": "https://github.com/Wahba1414/JavaScript_design_patterns#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^3.7.1",
+    "@typescript-eslint/parser": "^3.7.1",
+    "eslint": "^7.5.0",
+    "nodemon": "^2.0.4",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.7"
+  }
+}
