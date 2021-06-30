@@ -1,3 +1,3 @@
-import { strategyMain } from './behavioral/strategy/main';
+import { observerMain } from './behavioral/observer/main';
 
-strategyMain();
+observerMain();
