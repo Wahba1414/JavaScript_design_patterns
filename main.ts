@@ -1,3 +1,3 @@
-import { observerMain } from './behavioral/observer/main';
+import { decoratorMain } from './structural/decorator/main';
 
-observerMain();
+decoratorMain();
