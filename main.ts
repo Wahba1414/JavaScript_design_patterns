@@ -1,3 +1,3 @@
-import { decoratorMain } from './structural/decorator/main';
+import { factoryMethodMain } from './creational/factory_method/main';
 
-decoratorMain();
+factoryMethodMain();
