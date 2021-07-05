@@ -1,3 +1,3 @@
-import { factoryMethodMain } from './creational/factory_method/main';
+import { abstractFactoryMain } from './creational/abstract_factory/main';
 
-factoryMethodMain();
+abstractFactoryMain();
